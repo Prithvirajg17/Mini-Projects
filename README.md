@@ -1,19 +1,28 @@
-# Mini-Projects
-![Screenshot 2023-10-31 234033](https://github.com/Prithvirajg17/Mini-Projects/assets/148732155/89854a17-3e7b-4ea9-b3d0-bd006c814e4d)
+# APIS Mini-Projects
+
+![ciruit diagram](https://github.com/Prithvirajg17/Mini-Projects/assets/148732155/10bf0473-2ab6-4829-9ff2-c9b6d8daa248)
 
 
--Setting Up and Running the Chatbot:
+Install Arduino : https://www.arduino.cc/en/software
 
--Install required packages:
+--Materials Required :-
 
-⚕️pip install gradio
+1. Arduino UNO - https://amzn.to/3I6u9uo
+   
+2. Volt Relay Module - https://amzn.to/3MgP9NT
+   
+3. Water Pump and tube/pipe - https://amzn.to/3xxswQS
+   
+4. Soil Moisture Sensor - https://amzn.to/3uOWXjR
+   
+5. Jumper Wires - https://amzn.to/3LcBYhP
 
-⚕️pip install openai 
+---For connectivity pf components follow circuit diagram.
 
-Step1: Copy the provided code into a Python script (e.g., chatbot.py).
 
-Step2: Replace the API key placeholder with your actual OpenAI API key.
+✅Insert the Apis.ino file in Arduino board.
 
-Step3: Run the script using the command: python chatbot.py.
+💠Finally your APIS mini project is ready!
 
-Step4: Open the provided link in your browser to interact with the chatbot.
+
+
