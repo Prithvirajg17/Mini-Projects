@@ -6,8 +6,9 @@
 
 -Install required packages:
 
-pip install gradio
-pip install openai 
+⚕️pip install gradio
+
+⚕️pip install openai 
 
 Step1: Copy the provided code into a Python script (e.g., chatbot.py).
 
