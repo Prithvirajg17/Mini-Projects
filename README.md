@@ -10,6 +10,9 @@ pip install gradio
 pip install openai 
 
 Step1: Copy the provided code into a Python script (e.g., chatbot.py).
+
 Step2: Replace the API key placeholder with your actual OpenAI API key.
-Step3: Run the script using the command: python chatbot.py 
+
+Step3: Run the script using the command: python chatbot.py.
+
 Step4: Open the provided link in your browser to interact with the chatbot.
